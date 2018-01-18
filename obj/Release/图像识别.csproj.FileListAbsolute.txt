@@ -1,0 +1,15 @@
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.Form1.resources
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.MV_E_EM.resources
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.Properties.Resources.resources
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.List.resources
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.csproj.GenerateResource.Cache
+D:\a各种东西\C#\图像识别\bin\Release\图像识别.exe
+D:\a各种东西\C#\图像识别\bin\Release\图像识别.pdb
+D:\a各种东西\C#\图像识别\bin\Release\AForge.dll
+D:\a各种东西\C#\图像识别\bin\Release\AForge.Imaging.dll
+D:\a各种东西\C#\图像识别\bin\Release\AForge.Math.dll
+D:\a各种东西\C#\图像识别\bin\Release\AForge.Video.DirectShow.dll
+D:\a各种东西\C#\图像识别\bin\Release\AForge.Video.dll
+D:\a各种东西\C#\图像识别\bin\Release\zxing.dll
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.exe
+D:\a各种东西\C#\图像识别\obj\Release\图像识别.pdb
